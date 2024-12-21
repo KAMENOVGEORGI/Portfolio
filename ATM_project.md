@@ -118,8 +118,9 @@
         print("Invalid option. Please choose again.")
 
 ---
-📜 License
-This project is licensed under the MIT License.
+## 📜License
+
+    This project is licensed under the MIT License.
 
 GitHub:KAMENOVGEORGI
 Email:g.kamenovkanchev@gmail.com
