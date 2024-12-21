@@ -23,7 +23,7 @@
 
 
 ## 📷 ATM Preview
- (Images/ATM_PIC.jpg)
+   [ATM IMAGE](Images/ATM_PIC.jpg)
 
 #👨‍💻Code
 # Initial setup
