@@ -1,0 +1,25 @@
+# 🏧 ATM Project 🏧
+
+**ATM Project** This project simulates a basic ATM system with the following features:
+
+> This project demonstrates the use of Python programming concepts like loops, conditionals, functions, and list operations.💡
+
+
+---
+
+## 🎮 Project Features
+- **PIN Verification**: Users need to enter the correct PIN to access the system. After 3 incorrect attempts, the system locks.
+- **Main Menu**: Provides options to:
+1.Display current balance.
+2.Withdraw funds (multiple of 10).
+3.Deposit funds.
+4.View the last 10 transactions.
+5.Exit the system.
+- **Transaction History**: Tracks and displays the last 10 transactions.
+- **Input Validation**: Handles invalid inputs gracefully.
+
+---
+
+## 📷 ATM Preview
+(Images/Forest.webp)
+
