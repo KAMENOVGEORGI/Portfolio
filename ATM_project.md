@@ -21,10 +21,6 @@
 ---
 
 
-
-## 📷 ATM Preview
-   [ATM IMAGE](Images/ATM_PIC.jpg)
-
 #👨‍💻Code
 # Initial setup
     import time
